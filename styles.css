@@ -54,7 +54,7 @@ h4 {
 
 .capa {
     text-align: center;
-    padding: 50;
+    padding: 40;
 }
 
 .botão {
@@ -77,3 +77,21 @@ h4 {
     background-color: black;
     padding: 20px;
 }
+
+.Cxcadastro {
+    display: flex;
+    justify-content: center;
+    background-color: #d3d3d3;
+}
+
+.cadastroPF{
+    justify-content: center;
+    background-color: #d3d3d3;
+
+}
+
+.dados{
+    text-align: center;
+    justify-content: center;
+}
+

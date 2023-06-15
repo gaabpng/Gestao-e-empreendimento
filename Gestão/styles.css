@@ -1,0 +1,71 @@
+body{
+    background-color:#212932 ;
+}
+
+header{
+    background-color:#474C52 ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.rodape{
+    background-color: #212932;
+}
+
+a{
+    text-decoration: none;
+    color:#212932;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+h3{
+    padding: 20px;
+    background-color: #fdb722;
+}
+
+h4{
+    text-align: center;
+    color: #474C52;
+}
+
+.texto_header{
+    font-size: 40px;
+    margin: 10px
+}
+
+.foto_header{
+    margin: 10px;
+    height: 100px;
+}
+
+.capa{
+    text-align: center;
+    padding: 50;
+}
+
+.botão{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.rodape{
+    background-color: black;
+    padding: 20px;
+
+
+}

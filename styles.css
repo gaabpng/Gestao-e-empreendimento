@@ -99,7 +99,9 @@ h4 {
 .list{
     display: flex ;
     justify-content:space-between;
-    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
     
 }
 

@@ -43,6 +43,16 @@ h4 {
     color: #474C52;
 }
 
+.titulo_água {
+    color: white;
+    background-color: #80673B;
+    font-size: 30px;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
 .texto_header {
     font-size: 40px;
     margin: 10px
@@ -85,27 +95,86 @@ h4 {
     background-color: #d3d3d3;
 }
 
-.cadastroPF{
+.cadastroPF {
     justify-content: center;
     background-color: #d3d3d3;
 
 }
 
-.dados{
+.dados {
     text-align: center;
     justify-content: center;
 }
 
-.list{
-    display: flex ;
-    justify-content:space-between;
+.list {
+    display: flex;
+    justify-content: space-between;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 50px;
+
+}
+
+.produto {
+    background-color: rgb(43, 43, 43);
+    padding: 50px;
+}
+
+.class {
+    display: flex;
+}
+
+.subtitulo {
+    color: white;
+    font-size: 38px;
+}
+
+.contrato {
+    display: flex;
+}
+
+.select_assinatura {
+    display: flex;
+
+}
+
+.txt_area {
+    background-color: #2B2F33;
+    color: white;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border: #474C52 solid;
+    border-radius: 7px;
+}
+
+.install_box {
+    align-items: center;
+    background-color: #2B2F33;
+    border: #474C52 solid;
+    border-radius: 7px;
+
     
 }
 
-.produto{
-    background-color: rgb(43, 43, 43);
-    padding: 50px;
+.install_txt {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.box_pagamento{
+    align-items: center;
+    background-color: #2B2F33;
+    border: #474C52 solid;
+    border-radius: 7px;
+}
+
+.txt_pagamento{
+    text-align: center;
+    color: white;
+    font-size: 25px;
 }
